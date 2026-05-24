@@ -1,0 +1,5 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+faiss.index 
+filenames_map.json 

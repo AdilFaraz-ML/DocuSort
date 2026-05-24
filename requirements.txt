@@ -1,0 +1,5 @@
+pdfminer.six
+sentence-transformers
+faiss-cpu
+fpdf2
+numpy

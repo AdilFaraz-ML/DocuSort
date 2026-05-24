@@ -1,0 +1,15 @@
+Serach Commands:
+
+python main.py search "show me all invoices"
+
+python main.py search "find all resumes"
+
+python main.py search "find resumes with experience"
+
+python main.py search "electricity bills with high usage"
+
+python main.py search "payments due in January"
+
+python main.py search "find utility bills"
+
+python main.py search "show me all documents"
